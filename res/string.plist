@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+	<dict>
+		<key>startGame</key>
+		<string>开始游戏</string>
+		<key>goalScore</key>
+		<string>目标得分:</string>
+		<key>gameScore</key>
+		<string>游戏得分:</string>
+		<key>steps</key>
+		<string>步数:</string>
+		<key>nextLevel</key>
+		<string>下一关</string>
+		<key>repeatGame</key>
+		<string>再玩一遍</string>
+		<key>backLevel</key>
+		<string>返回关卡</string>
+	</dict>
+</plist>
