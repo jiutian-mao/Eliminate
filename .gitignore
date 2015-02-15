@@ -5,6 +5,6 @@ frameworks/runtime-src/proj.android/obj
 frameworks/runtime-src/proj.android/gen
 frameworks/runtime-src/proj.android/bin
 frameworks/runtime-src/proj.android/libs/armeabi
-frameworks/runtime-src/proj.android/assets
-runtime
+frameworks/runtime-src/proj.android/assets/res
+frameworks/runtime-src/proj.android/assets/src
 publish

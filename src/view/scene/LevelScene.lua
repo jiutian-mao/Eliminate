@@ -1,5 +1,5 @@
 require "src/view/scene/GameScene"
-require "GlobalVariables"
+require "src/GlobalVariables"
 require "src/control/LevelManager"
 require "src/util/MotionUtil"
 

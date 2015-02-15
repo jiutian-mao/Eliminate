@@ -43,7 +43,7 @@ bool AppDelegate::applicationDidFinishLaunching()
     if (!ConfigParser::getInstance()->isInit()) {
             ConfigParser::getInstance()->readConfig();
         }
-	
+	 
     // initialize director
     auto director = Director::getInstance();
     auto glview = director->getOpenGLView();    
