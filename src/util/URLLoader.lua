@@ -1,0 +1,19 @@
+---------
+-- LUA自带XMLHttpRequest无法监听网络通讯失败回调。
+-- 在此使用的是自己自定义C++导出类，C++中使用HTTP进行网络通讯，再回调到LUA中。
+
+--URLLoader = {}
+--function URLLoader:load(url,complete,error)
+--    local xhl = cc.XMLHttpRequest:new()
+--    xhl.response = cc.XMLHTTPREQUEST_RESPONSE_STRING
+--    xhl:open("GET",url,false)
+--    
+--    local function onReadyStateChange()
+--    	local type = xhl.responseType
+--        print(">>>>>>>>>>"..xhl.type)
+--        print("<<<<<<<<<<"..xhl.statusText)
+--    end
+--    xhl:registerScriptHandler(onReadyStateChange)
+--    xhl:send()
+--  
+--end

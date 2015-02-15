@@ -1,0 +1,10 @@
+frameworks/cocos2d-x
+frameworks/runtime-src/proj.win32/Debug.win32
+frameworks/runtime-src/proj.win32/*.sdf
+frameworks/runtime-src/proj.android/obj
+frameworks/runtime-src/proj.android/gen
+frameworks/runtime-src/proj.android/bin
+frameworks/runtime-src/proj.android/libs/armeabi
+frameworks/runtime-src/proj.android/assets
+runtime
+publish
