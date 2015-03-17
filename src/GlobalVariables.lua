@@ -8,8 +8,8 @@ TAG_TIPS = 12
 TAG_TIMER = 13
 
 MUSIC_GAME = {
-    BG = "sound/bgm_game.wav",
-    SELECT = "sound/A_select.wav",
-    FALSEMOVE = "sound/A_falsemove.wav",
-    MATCH = "sound/A_combo1.wav"
+    BG = "res/sound/bgm_game.wav",
+    SELECT = "res/sound/A_select.wav",
+    FALSEMOVE = "res/sound/A_falsemove.wav",
+    MATCH = "res/sound/A_combo1.wav"
 }
